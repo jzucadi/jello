@@ -1,6 +1,6 @@
 # jello
 
-> A Vue.js project
+> A single page app with CRUD abilities. Using Vue.js & Webpack plus some goodies.
 
 ## Build Setup
 
