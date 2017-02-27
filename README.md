@@ -1,6 +1,6 @@
 # jello
 
-> A single page app with CRUD abilities. Using Vue.js & Webpack plus some goodies.
+>Using Vue.js, yarn,Webpackplus & some goodies.
 
 ## Build Setup
 
@@ -15,4 +15,4 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
